@@ -11,7 +11,7 @@ PART 1 (perparation)
 3. Run additional file and computer time check on GADI. (checking_no_of_files.py and computer_time.py)
 
 PART 2 (analysis)
-4. Run reliability and timings analysis using generated .csv files. (reliability.ipynb and timings.ipynb) This step requires .csv output files for all models, as well as timings_report.csv generated manually.
-5. Analyse types of errors that result in unreliable models. (error_types.ipynb)
+1. Run reliability and timings analysis using generated .csv files. (reliability.ipynb and timings.ipynb) This step requires .csv output files for all models, as well as timings_report.csv generated manually.
+2. Analyse types of errors that result in unreliable models. (error_types.ipynb)
 
 
