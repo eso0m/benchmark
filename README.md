@@ -11,4 +11,5 @@ PART 1 (perparation)
 3. Run additional file and computer time check on GADI. (checking_no_of_files.py and computer_time.py)
 
 PART 2 (analysis)
-4. Run reliability and timings analysis using generated .csv files. (
+4. Run reliability and timings analysis using generated .csv files. (reliability.ipynb and timings.ipynb) This step requires .csv output files for all basis sets and model chemistries combinations, as well as timings_report.csv generated manually.
+
