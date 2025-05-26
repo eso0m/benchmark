@@ -2,3 +2,13 @@
 Repository for anharmonic frequency benchmark project from Y4 of my MChem.
 
 The aim of the project was to analyse anharmonic vibrational frequency data calculated using approximate computational models and compare it to its harmonic counterparts. The analysis was focused on 3 main aspects: accuracy of the obtained data compared to the experiemtnal results, time required to compute the data and reliability of the used models.
+
+More detailed description on how to used the provided code:
+
+PART 1 (perparation)
+1. Prepare .gjf and .pbs files for running calculations on GADI. (prepare_files.ipynb)
+2. Convert .log output files obtained from GADI into .csv files. (from_log_to_csv.py)
+3. Run additional file and computer time check on GADI. (checking_no_of_files.py and computer_time.py)
+
+PART 2 (analysis)
+4. Run reliability and timings analysis using generated .csv files. (
