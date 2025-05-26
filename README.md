@@ -15,5 +15,6 @@ PART 2 (analysis)
 2. Analyse types of errors that result in unreliable models. (error_types.ipynb)
 3. Combine run 1 and 2 for hybrids. (fusing_csvs.ipynb)
 4. Copy over the double hybrids data from run 1 into 'final' folder.
+5. Order data by level of theory. (order_data_by_lot.ipynb)
 
 
